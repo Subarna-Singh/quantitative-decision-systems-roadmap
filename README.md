@@ -1,2 +1,2 @@
-# quantitative-decision-systems-roadmap
+# Quantitative Decision Systems Roadmap
 Learning everything about Data 
